@@ -56,7 +56,7 @@ const App=() => {
                   <Card className={classes.card}>
                     <CardMedia 
                         className={classes.cardMedia}
-                        image="https://source.unsplash.com/random"
+                        image=""
                         title="Image title"
                     />
                     <CardContent className={classes.cardContent}>
